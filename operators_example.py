@@ -38,7 +38,7 @@ t = a + k
 print ("20 plus 2 is", t)
 
 v = 5
-z = 7
+z = 10
 
 v += z
 print ("v + z is", v)
@@ -47,4 +47,7 @@ z -= v
 print ("z - v is", z)
 
 v *= z
-print ("v *", v)
+print ("v * z is", v)
+
+z /= v
+print ("z ÷ v is", z)

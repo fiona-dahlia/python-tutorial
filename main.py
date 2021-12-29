@@ -1,4 +1,5 @@
 x = True
+
 print (x)
 print (type(x))
 y = 5 != 5
