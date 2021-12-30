@@ -1,0 +1,10 @@
+g = ('Daddy', True, 12345678910, 8)
+print (g)
+print (type(g))
+print (len(g))
+l = ('Mommy', False, 1, 2)
+print (l)
+print (type(l))
+print (len(l))
+o = g + l
+print (o)

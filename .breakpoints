@@ -7,6 +7,14 @@
         "version": 500,
         "index": 0
       }
+    ],
+    "tuples_examples.py": [
+      {
+        "id": "af427c34-e74f-46b2-bca9-a0eec56c06a7",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
     ]
   }
 }
