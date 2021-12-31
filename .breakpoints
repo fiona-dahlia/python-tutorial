@@ -1,5 +1,13 @@
 {
   "files": {
+    "dictionary_exxamples.py": [
+      {
+        "id": "b89d2850-7e7e-44e1-a61c-5b77d374e8fb",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ],
     "string_operations.py": [
       {
         "id": "6ddc3a85-af45-4461-9bc5-8a3f98288b40",
